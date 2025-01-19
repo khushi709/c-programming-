@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main(){
+int*ptr;
+int num=1;
+ptr=%num;
+printf("address of num:%p\",ptr);
+ptr++;
+printf("address after incrementing ptr:%p\n",ptr);
+int size=(pte-&num)*size of(int);
+printf("size of the processor word:bytes \n",size);
+return 0;
+}
